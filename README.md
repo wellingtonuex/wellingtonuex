@@ -1,0 +1,106 @@
+## Hello! I am Wellington Barbosa 👋
+
+<div style="display: inline_block"><br>
+     <img
+        align="center"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
+      >
+      <img
+        align="center"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+      >
+      <img
+        align="center"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg"
+      >
+       <img
+        align="center"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      >
+      <img
+        align="center"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"
+      >
+      <img
+        align="center"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+      >
+      <img
+        align="center"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      >
+      <img
+        align="center"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      >
+      <img
+        align="center"
+        height="30"
+        width="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      >
+      <img 
+        align="right" 
+        src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif"
+      >
+</div>
+
+##
+
+<div> 
+    <a 
+      href="https://www.t.me/owellcarneiro2"
+      target="_blank"
+    >
+      <img
+        src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white"
+        target="_blank"
+      >
+    </a>
+    <a 
+      href="https://instagram.com/owellcarneiro"
+      target="_blank"
+    >
+      <img
+        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        target="_blank"
+      >
+    </a>
+    <a 
+      href="mailto:wellingtonbarbosa.dev@gmail.com"
+      target="_blank"
+    >
+      <img
+        src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+        target="_blank"
+      >
+    </a>
+    <a 
+      href="https://www.linkedin.com/in/wellingtoncarneirobarbosa"
+      target="_blank"
+    >
+      <img
+        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        target="_blank"
+      >
+    </a>
+ 
+  ![Snake animation](https://github.com/wellingtoncarneirobarbosa/wellingtoncarneirobarbosa/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
