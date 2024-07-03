@@ -83,7 +83,7 @@
       >
     </a>
     <a 
-      href="mailto:wellingtonbarbosa.dev@gmail.com"
+      href="mailto:wellington@uex.io"
       target="_blank"
     >
       <img
